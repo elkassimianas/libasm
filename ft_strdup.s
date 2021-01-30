@@ -1,5 +1,4 @@
-; let's finish this bullshit 
-;this is last function in mandatory part :)
+
     extern _ft_strlen
     extern _ft_strcpy
     extern _malloc
