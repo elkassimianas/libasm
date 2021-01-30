@@ -1,4 +1,3 @@
-;im gonna write strcmp in assembly
 
 section .text
     global _ft_strcmp
